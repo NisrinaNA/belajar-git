@@ -5,8 +5,8 @@
 		$nis			= @$_POST['nis'];
 		$nama_lengkap	= @$_POST['nama_lengkap'];
 		$jenis_kelamin	= @$_POST['jenis_kelamin'];
-	//	$kelas			= $_POST['kelas'];
-	//	$jurusan		= $_POST['jurusan'];
+		$kelas			= $_POST['kelas'];
+		$jurusan		= $_POST['jurusan'];
 		$alamat			= @$_POST['alamat'];
 		$goldar			= @$_POST['goldar'];
 		$ibu			= @$_POST['ibu'];
